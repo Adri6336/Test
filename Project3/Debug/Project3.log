@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Adrian\source\repos\Project3\Source.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Adrian\source\repos\Project3\Source.cpp(27,6): warning C4101: 'foundAt': unreferenced local variable
+  Project3.vcxproj -> C:\Users\Adrian\source\repos\Project3\Debug\Project3.exe
